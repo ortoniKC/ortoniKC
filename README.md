@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ortoniKC
+- 👋 Hi, I’m Koushik Chatterjee
 - 👀 I’m interested in software testing and developing products
 - 🌱 I’m currently learning Flutter & Angular
 - 💞️ I’m looking to collaborate on any software testing related Youtube videos
