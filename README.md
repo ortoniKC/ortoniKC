@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Flutter & Angular
 - 💞️ I’m looking to collaborate on any software testing related Youtube videos
 - 📫 How to reach me - koushik350@gmail.com
+- 📫 Youtube - youtube.com/letcode
 
 <!---
 ortoniKC/ortoniKC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
