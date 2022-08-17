@@ -3,10 +3,10 @@
 - 👀 I’m interested in software testing and developing products
 - 🌱 I’m currently learning Flutter & Angular
 - 💞️ I’m looking to collaborate on any software testing related Youtube videos
-- 📫 How to reach me - koushik350@gmail.com
-- 📫 My Youtube channel - https://www.youtube.com/letcode
 
 ## 🤝 Connect with me:
+
+- [<img align="left" alt="letcode | YouTube" src="https://img.shields.io/badge/Youtube-0077B5?style=for-the-badge&logo=youtube&logoColor=red" />][youtube]
 
 - [<img align="left" alt="ortoni | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
@@ -21,6 +21,7 @@
 [twitter]: https://twitter.com/koushik_chat
 [linkedin]: https://www.linkedin.com/in/ortoni/
 [coffee]: https://www.buymeacoffee.com/letcode
+[youtube]: https://www.youtube.com/letcode
 
 
 
