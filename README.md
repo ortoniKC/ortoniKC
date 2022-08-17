@@ -6,7 +6,7 @@
 
 ## 🤝 Connect with me:
 
-- [<img align="left" alt="letcode | YouTube" src="https://img.shields.io/badge/Youtube-0077B5?style=for-the-badge&logo=youtube&logoColor=red" />][youtube]
+- [<img align="left" alt="letcode | YouTube" src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
 
 - [<img align="left" alt="ortoni | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
