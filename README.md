@@ -5,8 +5,8 @@
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/UunqzYFHPX) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ortoknikc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ortoni) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/UCNcnqL0P17hISKlOxTjkJ0g) 
 
-
-## Youtube updated:
+[![](https://visitcount.itsvg.in/api?id=ortonikc&icon=6&color=0)](https://visitcount.itsvg.in)
+# ▶️ Recent videos:
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Playwright Locators | Playwright (Java) - Part 12](https://ytcards.demolab.com/?id=LxoAVUmeaBE&title=Playwright+Locators+%7C+Playwright+%28Java%29+-+Part+12&lang=en&timestamp=1672822601&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Playwright Locators | Playwright (Java) - Part 12")](https://www.youtube.com/watch?v=LxoAVUmeaBE)
 [![Write test script without finding elements |  Playwright (Java) - Part 11](https://ytcards.demolab.com/?id=BGlS7GsaYXY&title=Write+test+script+without+finding+elements+%7C++Playwright+%28Java%29+-+Part+11&lang=en&timestamp=1672658364&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Write test script without finding elements |  Playwright (Java) - Part 11")](https://www.youtube.com/watch?v=BGlS7GsaYXY)
@@ -28,12 +28,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
-[![](https://visitcount.itsvg.in/api?id=ortonikc&icon=6&color=0)](https://visitcount.itsvg.in)
-
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/letcode) 
 
