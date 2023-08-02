@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on content creation<br>👯 I’m looking to collaborate on software testing-related content creation<br>🤝 I’m looking for help with developing a chrome extension that can find Playwright locators<br>🌱 I’m currently learning chrome extension manifest v3 & flutter<br>💬 Ask me about automation testing<br>⚡ Fun fact - I am lazy but smart
+🔭 I’m currently working on content creation<br>👯 I’m looking to collaborate on software testing-related content creation<br>🤝 I’m currently learning Azure data platforms<br>💬 Ask me about Automation, ETL and data visualization<br>⚡ Fun fact - I am lazy but smart
 
 
 ## 🌐 Socials:
