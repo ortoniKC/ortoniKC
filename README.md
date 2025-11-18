@@ -1,5 +1,5 @@
 # 💫 About Koushik:
-🔭 I’m currently working on content creation<br>👯 I’m looking to collaborate on software testing-related content creation<br>🤝 I’m looking for help with developing a chrome extension that can find Playwright locators<br>🌱 I’m currently learning chrome extension manifest v3 & flutter<br>💬 Ask me about automation testing<br>⚡ Fun fact - I am lazy but smart
+🔭 I’m currently working on content creation<br>👯 I’m looking to collaborate on software testing-related content creation<br>💬 Ask me about automation testing<br>⚡ Fun fact - I am lazy but smart
 
 
 ## 🌐 Socials:
@@ -29,7 +29,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-  ## 💰 You can help me by Donating
+  ## 💰 You can help me by donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/letcode) 
 
   
